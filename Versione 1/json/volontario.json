@@ -1,0 +1,25 @@
+[ {
+  "name" : "Samuele",
+  "surname" : "Valperta",
+  "nickname" : "samuvalpe",
+  "password" : "volunteer",
+  "availability" : true
+}, {
+  "name" : "Alberto",
+  "surname" : "Ferrari",
+  "nickname" : "albyferro",
+  "password" : "volunteer",
+  "availability" : true
+}, {
+  "name" : "Robert",
+  "surname" : "Bararu",
+  "nickname" : "robybaru",
+  "password" : "volunteer",
+  "availability" : true
+}, {
+  "name" : "Carlo",
+  "surname" : "Agustelli",
+  "nickname" : "carloaug",
+  "password" : "volunteer",
+  "availability" : true
+} ]

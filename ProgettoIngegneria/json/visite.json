@@ -1,0 +1,1250 @@
+[ {
+  "numberOfSub" : 50
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-01",
+  "counterId" : 1,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-08",
+  "counterId" : 2,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-15",
+  "counterId" : 3,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-22",
+  "counterId" : 4,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-29",
+  "counterId" : 5,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-02",
+  "counterId" : 6,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-09",
+  "counterId" : 7,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-16",
+  "counterId" : 8,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-23",
+  "counterId" : 9,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-30",
+  "counterId" : 10,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-03",
+  "counterId" : 11,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-10",
+  "counterId" : 12,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-17",
+  "counterId" : 13,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-24",
+  "counterId" : 14,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-31",
+  "counterId" : 15,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-04",
+  "counterId" : 16,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-11",
+  "counterId" : 17,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-18",
+  "counterId" : 18,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita interna del Quirinale",
+    "description" : "La visita interna del Quirinale è un viaggio affascinante tra arte, storia e istituzioni. Si cammina attraverso sale sontuose, affreschi, arazzi e arredi storici che raccontano secoli di potere, da papi e re fino ai presidenti della Repubblica. Ogni ambiente ha una sua atmosfera: dalla maestosa Sala dei Corazzieri al tranquillo Cortile d’Onore. È un’esperienza elegante e immersiva, che unisce bellezza architettonica e senso civico, mostrando da vicino uno dei luoghi simbolo dello Stato italiano.",
+    "meetingPoint" : "Fermata bus",
+    "startDate" : "2025-03-01",
+    "endDate" : "2025-10-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "10:00",
+    "duration" : 120,
+    "buyTicket" : false,
+    "minParticipant" : 190,
+    "maxParticipant" : 300,
+    "place" : {
+      "name" : "Quirinale",
+      "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+      "address" : "Piazza del Quirinale"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-25",
+  "counterId" : 19,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Sotterranei del Colosseo",
+    "description" : "Visitare i sotterranei del Colosseo è un'esperienza suggestiva e un po’ misteriosa. Si scende sotto l’arena, dove un tempo si muovevano gladiatori, animali e macchinari nascosti. Tra luci soffuse e pietre antiche, ci si ritrova in un labirinto di corridoi e stanze che raccontano il dietro le quinte degli spettacoli romani. È un modo diverso di vivere il Colosseo, più intimo e affascinante.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-01-01",
+    "endDate" : "2028-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "10:00",
+    "duration" : 90,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 30,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Leonardo",
+      "surname" : "Folgoni",
+      "nickname" : "folgo03",
+      "password" : "1234",
+      "dateAvailability" : [ "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15" ]
+    } ]
+  },
+  "date" : "2025-08-11",
+  "counterId" : 20,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Sotterranei del Colosseo",
+    "description" : "Visitare i sotterranei del Colosseo è un'esperienza suggestiva e un po’ misteriosa. Si scende sotto l’arena, dove un tempo si muovevano gladiatori, animali e macchinari nascosti. Tra luci soffuse e pietre antiche, ci si ritrova in un labirinto di corridoi e stanze che raccontano il dietro le quinte degli spettacoli romani. È un modo diverso di vivere il Colosseo, più intimo e affascinante.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-01-01",
+    "endDate" : "2028-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "10:00",
+    "duration" : 90,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 30,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-05",
+  "counterId" : 21,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Sotterranei del Colosseo",
+    "description" : "Visitare i sotterranei del Colosseo è un'esperienza suggestiva e un po’ misteriosa. Si scende sotto l’arena, dove un tempo si muovevano gladiatori, animali e macchinari nascosti. Tra luci soffuse e pietre antiche, ci si ritrova in un labirinto di corridoi e stanze che raccontano il dietro le quinte degli spettacoli romani. È un modo diverso di vivere il Colosseo, più intimo e affascinante.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-01-01",
+    "endDate" : "2028-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "10:00",
+    "duration" : 90,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 30,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-12",
+  "counterId" : 22,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Sotterranei del Colosseo",
+    "description" : "Visitare i sotterranei del Colosseo è un'esperienza suggestiva e un po’ misteriosa. Si scende sotto l’arena, dove un tempo si muovevano gladiatori, animali e macchinari nascosti. Tra luci soffuse e pietre antiche, ci si ritrova in un labirinto di corridoi e stanze che raccontano il dietro le quinte degli spettacoli romani. È un modo diverso di vivere il Colosseo, più intimo e affascinante.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-01-01",
+    "endDate" : "2028-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "10:00",
+    "duration" : 90,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 30,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-19",
+  "counterId" : 23,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Sotterranei del Colosseo",
+    "description" : "Visitare i sotterranei del Colosseo è un'esperienza suggestiva e un po’ misteriosa. Si scende sotto l’arena, dove un tempo si muovevano gladiatori, animali e macchinari nascosti. Tra luci soffuse e pietre antiche, ci si ritrova in un labirinto di corridoi e stanze che raccontano il dietro le quinte degli spettacoli romani. È un modo diverso di vivere il Colosseo, più intimo e affascinante.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-01-01",
+    "endDate" : "2028-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "10:00",
+    "duration" : 90,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 30,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-26",
+  "counterId" : 24,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Sotterranei del Colosseo",
+    "description" : "Visitare i sotterranei del Colosseo è un'esperienza suggestiva e un po’ misteriosa. Si scende sotto l’arena, dove un tempo si muovevano gladiatori, animali e macchinari nascosti. Tra luci soffuse e pietre antiche, ci si ritrova in un labirinto di corridoi e stanze che raccontano il dietro le quinte degli spettacoli romani. È un modo diverso di vivere il Colosseo, più intimo e affascinante.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-01-01",
+    "endDate" : "2028-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "10:00",
+    "duration" : 90,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 30,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-06",
+  "counterId" : 25,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Sotterranei del Colosseo",
+    "description" : "Visitare i sotterranei del Colosseo è un'esperienza suggestiva e un po’ misteriosa. Si scende sotto l’arena, dove un tempo si muovevano gladiatori, animali e macchinari nascosti. Tra luci soffuse e pietre antiche, ci si ritrova in un labirinto di corridoi e stanze che raccontano il dietro le quinte degli spettacoli romani. È un modo diverso di vivere il Colosseo, più intimo e affascinante.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-01-01",
+    "endDate" : "2028-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "10:00",
+    "duration" : 90,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 30,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-13",
+  "counterId" : 26,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Sotterranei del Colosseo",
+    "description" : "Visitare i sotterranei del Colosseo è un'esperienza suggestiva e un po’ misteriosa. Si scende sotto l’arena, dove un tempo si muovevano gladiatori, animali e macchinari nascosti. Tra luci soffuse e pietre antiche, ci si ritrova in un labirinto di corridoi e stanze che raccontano il dietro le quinte degli spettacoli romani. È un modo diverso di vivere il Colosseo, più intimo e affascinante.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-01-01",
+    "endDate" : "2028-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "10:00",
+    "duration" : 90,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 30,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-20",
+  "counterId" : 27,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Sotterranei del Colosseo",
+    "description" : "Visitare i sotterranei del Colosseo è un'esperienza suggestiva e un po’ misteriosa. Si scende sotto l’arena, dove un tempo si muovevano gladiatori, animali e macchinari nascosti. Tra luci soffuse e pietre antiche, ci si ritrova in un labirinto di corridoi e stanze che raccontano il dietro le quinte degli spettacoli romani. È un modo diverso di vivere il Colosseo, più intimo e affascinante.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-01-01",
+    "endDate" : "2028-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "10:00",
+    "duration" : 90,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 30,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-27",
+  "counterId" : 28,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Sotterranei del Colosseo",
+    "description" : "Visitare i sotterranei del Colosseo è un'esperienza suggestiva e un po’ misteriosa. Si scende sotto l’arena, dove un tempo si muovevano gladiatori, animali e macchinari nascosti. Tra luci soffuse e pietre antiche, ci si ritrova in un labirinto di corridoi e stanze che raccontano il dietro le quinte degli spettacoli romani. È un modo diverso di vivere il Colosseo, più intimo e affascinante.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-01-01",
+    "endDate" : "2028-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "10:00",
+    "duration" : 90,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 30,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-07",
+  "counterId" : 29,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Sotterranei del Colosseo",
+    "description" : "Visitare i sotterranei del Colosseo è un'esperienza suggestiva e un po’ misteriosa. Si scende sotto l’arena, dove un tempo si muovevano gladiatori, animali e macchinari nascosti. Tra luci soffuse e pietre antiche, ci si ritrova in un labirinto di corridoi e stanze che raccontano il dietro le quinte degli spettacoli romani. È un modo diverso di vivere il Colosseo, più intimo e affascinante.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-01-01",
+    "endDate" : "2028-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "10:00",
+    "duration" : 90,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 30,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-14",
+  "counterId" : 30,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Sotterranei del Colosseo",
+    "description" : "Visitare i sotterranei del Colosseo è un'esperienza suggestiva e un po’ misteriosa. Si scende sotto l’arena, dove un tempo si muovevano gladiatori, animali e macchinari nascosti. Tra luci soffuse e pietre antiche, ci si ritrova in un labirinto di corridoi e stanze che raccontano il dietro le quinte degli spettacoli romani. È un modo diverso di vivere il Colosseo, più intimo e affascinante.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-01-01",
+    "endDate" : "2028-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "10:00",
+    "duration" : 90,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 30,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-21",
+  "counterId" : 31,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Sotterranei del Colosseo",
+    "description" : "Visitare i sotterranei del Colosseo è un'esperienza suggestiva e un po’ misteriosa. Si scende sotto l’arena, dove un tempo si muovevano gladiatori, animali e macchinari nascosti. Tra luci soffuse e pietre antiche, ci si ritrova in un labirinto di corridoi e stanze che raccontano il dietro le quinte degli spettacoli romani. È un modo diverso di vivere il Colosseo, più intimo e affascinante.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-01-01",
+    "endDate" : "2028-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "10:00",
+    "duration" : 90,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 30,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Alberto",
+      "surname" : "Ferrari",
+      "nickname" : "albertoferro",
+      "password" : "0000",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-04", "2025-08-05", "2025-08-06", "2025-08-07", "2025-08-08", "2025-08-09", "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15", "2025-08-16", "2025-08-17", "2025-08-18", "2025-08-19", "2025-08-20", "2025-08-21", "2025-08-22", "2025-08-23", "2025-08-24", "2025-08-25", "2025-08-26", "2025-08-27", "2025-08-28", "2025-08-29", "2025-08-30", "2025-08-31" ]
+    } ]
+  },
+  "date" : "2025-08-28",
+  "counterId" : 32,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Sotterranei del Colosseo",
+    "description" : "Visitare i sotterranei del Colosseo è un'esperienza suggestiva e un po’ misteriosa. Si scende sotto l’arena, dove un tempo si muovevano gladiatori, animali e macchinari nascosti. Tra luci soffuse e pietre antiche, ci si ritrova in un labirinto di corridoi e stanze che raccontano il dietro le quinte degli spettacoli romani. È un modo diverso di vivere il Colosseo, più intimo e affascinante.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-01-01",
+    "endDate" : "2028-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "10:00",
+    "duration" : 90,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 30,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Leonardo",
+      "surname" : "Folgoni",
+      "nickname" : "folgo03",
+      "password" : "1234",
+      "dateAvailability" : [ "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15" ]
+    } ]
+  },
+  "date" : "2025-08-15",
+  "counterId" : 33,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Sotterranei del Colosseo",
+    "description" : "Visitare i sotterranei del Colosseo è un'esperienza suggestiva e un po’ misteriosa. Si scende sotto l’arena, dove un tempo si muovevano gladiatori, animali e macchinari nascosti. Tra luci soffuse e pietre antiche, ci si ritrova in un labirinto di corridoi e stanze che raccontano il dietro le quinte degli spettacoli romani. È un modo diverso di vivere il Colosseo, più intimo e affascinante.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-01-01",
+    "endDate" : "2028-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "10:00",
+    "duration" : 90,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 30,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Leonardo",
+      "surname" : "Folgoni",
+      "nickname" : "folgo03",
+      "password" : "1234",
+      "dateAvailability" : [ "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15" ]
+    } ]
+  },
+  "date" : "2025-08-10",
+  "counterId" : 34,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Visita esterna del Colosseo",
+    "description" : "La visita esterna al Colosseo è già di per sé un tuffo nella storia. Passeggiare attorno alla sua imponente struttura ti fa sentire piccolo di fronte alla grandezza dell’antica Roma. Tra archi, colonne e scorci spettacolari, si respira un’atmosfera unica, soprattutto al tramonto, quando la luce dorata esalta ogni dettaglio. Anche solo ammirarlo da fuori è un’esperienza che lascia il segno.",
+    "meetingPoint" : "Metro Colosseo",
+    "startDate" : "2025-06-01",
+    "endDate" : "2025-08-01",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY", "MONDAY" ],
+    "startHour" : "13:00",
+    "duration" : 60,
+    "buyTicket" : false,
+    "minParticipant" : 5,
+    "maxParticipant" : 15,
+    "place" : {
+      "name" : "Colosseo",
+      "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+      "address" : "Piazza del Colosseo 1"
+    },
+    "volunteer" : [ {
+      "name" : "Ilaria",
+      "surname" : "Larovere",
+      "nickname" : "ilarhove03",
+      "password" : "casti01",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-08", "2025-08-09", "2025-08-10" ]
+    } ]
+  },
+  "date" : "2025-08-01",
+  "counterId" : 35,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Salita sulla cupola",
+    "description" : "La salita sulla cupola di San Pietro è un’avventura spettacolare che regala una vista mozzafiato su Roma e sul Vaticano. Si può scegliere tra le scale o l’ascensore per arrivare quasi in cima, ma poi ci sono ancora alcuni gradini da affrontare. Una volta arrivati, il panorama ti ripaga di ogni sforzo: si vede tutta la città da una prospettiva unica, con il colonnato di Piazza San Pietro che si apre sotto di te. È un’esperienza emozionante e indimenticabile, perfetta per chi ama la bellezza dall’alto.",
+    "meetingPoint" : "Ingresso citta del vaticano",
+    "startDate" : "2025-01-01",
+    "endDate" : "2026-01-02",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "15:00",
+    "duration" : 15,
+    "buyTicket" : false,
+    "minParticipant" : 1,
+    "maxParticipant" : 100,
+    "place" : {
+      "name" : "Basilica di San Pietro",
+      "description" : "La Basilica di San Pietro è uno dei luoghi più iconici e sacri del mondo cristiano. Situata in Vaticano, colpisce per la sua maestosità, con la grande cupola progettata da Michelangelo e l’imponente facciata. All’interno custodisce capolavori come la Pietà e l’altare papale sopra la tomba di San Pietro. È un luogo di fede, arte e bellezza senza tempo.",
+      "address" : "Piazza San Pietro, Citta del Vaticano"
+    },
+    "volunteer" : [ {
+      "name" : "Ilaria",
+      "surname" : "Larovere",
+      "nickname" : "ilarhove03",
+      "password" : "volunteer",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-08", "2025-08-09", "2025-08-10" ]
+    } ]
+  },
+  "date" : "2025-08-08",
+  "counterId" : 36,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Salita sulla cupola",
+    "description" : "La salita sulla cupola di San Pietro è un’avventura spettacolare che regala una vista mozzafiato su Roma e sul Vaticano. Si può scegliere tra le scale o l’ascensore per arrivare quasi in cima, ma poi ci sono ancora alcuni gradini da affrontare. Una volta arrivati, il panorama ti ripaga di ogni sforzo: si vede tutta la città da una prospettiva unica, con il colonnato di Piazza San Pietro che si apre sotto di te. È un’esperienza emozionante e indimenticabile, perfetta per chi ama la bellezza dall’alto.",
+    "meetingPoint" : "Ingresso citta del vaticano",
+    "startDate" : "2025-01-01",
+    "endDate" : "2026-01-02",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "15:00",
+    "duration" : 15,
+    "buyTicket" : false,
+    "minParticipant" : 1,
+    "maxParticipant" : 100,
+    "place" : {
+      "name" : "Basilica di San Pietro",
+      "description" : "La Basilica di San Pietro è uno dei luoghi più iconici e sacri del mondo cristiano. Situata in Vaticano, colpisce per la sua maestosità, con la grande cupola progettata da Michelangelo e l’imponente facciata. All’interno custodisce capolavori come la Pietà e l’altare papale sopra la tomba di San Pietro. È un luogo di fede, arte e bellezza senza tempo.",
+      "address" : "Piazza San Pietro, Citta del Vaticano"
+    },
+    "volunteer" : [ {
+      "name" : "Ilaria",
+      "surname" : "Larovere",
+      "nickname" : "ilarhove03",
+      "password" : "volunteer",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-08", "2025-08-09", "2025-08-10" ]
+    } ]
+  },
+  "date" : "2025-08-02",
+  "counterId" : 37,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Salita sulla cupola",
+    "description" : "La salita sulla cupola di San Pietro è un’avventura spettacolare che regala una vista mozzafiato su Roma e sul Vaticano. Si può scegliere tra le scale o l’ascensore per arrivare quasi in cima, ma poi ci sono ancora alcuni gradini da affrontare. Una volta arrivati, il panorama ti ripaga di ogni sforzo: si vede tutta la città da una prospettiva unica, con il colonnato di Piazza San Pietro che si apre sotto di te. È un’esperienza emozionante e indimenticabile, perfetta per chi ama la bellezza dall’alto.",
+    "meetingPoint" : "Ingresso citta del vaticano",
+    "startDate" : "2025-01-01",
+    "endDate" : "2026-01-02",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "15:00",
+    "duration" : 15,
+    "buyTicket" : false,
+    "minParticipant" : 1,
+    "maxParticipant" : 100,
+    "place" : {
+      "name" : "Basilica di San Pietro",
+      "description" : "La Basilica di San Pietro è uno dei luoghi più iconici e sacri del mondo cristiano. Situata in Vaticano, colpisce per la sua maestosità, con la grande cupola progettata da Michelangelo e l’imponente facciata. All’interno custodisce capolavori come la Pietà e l’altare papale sopra la tomba di San Pietro. È un luogo di fede, arte e bellezza senza tempo.",
+      "address" : "Piazza San Pietro, Citta del Vaticano"
+    },
+    "volunteer" : [ {
+      "name" : "Ilaria",
+      "surname" : "Larovere",
+      "nickname" : "ilarhove03",
+      "password" : "volunteer",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-08", "2025-08-09", "2025-08-10" ]
+    } ]
+  },
+  "date" : "2025-08-09",
+  "counterId" : 38,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Salita sulla cupola",
+    "description" : "La salita sulla cupola di San Pietro è un’avventura spettacolare che regala una vista mozzafiato su Roma e sul Vaticano. Si può scegliere tra le scale o l’ascensore per arrivare quasi in cima, ma poi ci sono ancora alcuni gradini da affrontare. Una volta arrivati, il panorama ti ripaga di ogni sforzo: si vede tutta la città da una prospettiva unica, con il colonnato di Piazza San Pietro che si apre sotto di te. È un’esperienza emozionante e indimenticabile, perfetta per chi ama la bellezza dall’alto.",
+    "meetingPoint" : "Ingresso citta del vaticano",
+    "startDate" : "2025-01-01",
+    "endDate" : "2026-01-02",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "15:00",
+    "duration" : 15,
+    "buyTicket" : false,
+    "minParticipant" : 1,
+    "maxParticipant" : 100,
+    "place" : {
+      "name" : "Basilica di San Pietro",
+      "description" : "La Basilica di San Pietro è uno dei luoghi più iconici e sacri del mondo cristiano. Situata in Vaticano, colpisce per la sua maestosità, con la grande cupola progettata da Michelangelo e l’imponente facciata. All’interno custodisce capolavori come la Pietà e l’altare papale sopra la tomba di San Pietro. È un luogo di fede, arte e bellezza senza tempo.",
+      "address" : "Piazza San Pietro, Citta del Vaticano"
+    },
+    "volunteer" : [ {
+      "name" : "Ilaria",
+      "surname" : "Larovere",
+      "nickname" : "ilarhove03",
+      "password" : "volunteer",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-08", "2025-08-09", "2025-08-10" ]
+    } ]
+  },
+  "date" : "2025-08-03",
+  "counterId" : 39,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Salita sulla cupola",
+    "description" : "La salita sulla cupola di San Pietro è un’avventura spettacolare che regala una vista mozzafiato su Roma e sul Vaticano. Si può scegliere tra le scale o l’ascensore per arrivare quasi in cima, ma poi ci sono ancora alcuni gradini da affrontare. Una volta arrivati, il panorama ti ripaga di ogni sforzo: si vede tutta la città da una prospettiva unica, con il colonnato di Piazza San Pietro che si apre sotto di te. È un’esperienza emozionante e indimenticabile, perfetta per chi ama la bellezza dall’alto.",
+    "meetingPoint" : "Ingresso citta del vaticano",
+    "startDate" : "2025-01-01",
+    "endDate" : "2026-01-02",
+    "day" : [ "FRIDAY", "SATURDAY", "SUNDAY" ],
+    "startHour" : "15:00",
+    "duration" : 15,
+    "buyTicket" : false,
+    "minParticipant" : 1,
+    "maxParticipant" : 100,
+    "place" : {
+      "name" : "Basilica di San Pietro",
+      "description" : "La Basilica di San Pietro è uno dei luoghi più iconici e sacri del mondo cristiano. Situata in Vaticano, colpisce per la sua maestosità, con la grande cupola progettata da Michelangelo e l’imponente facciata. All’interno custodisce capolavori come la Pietà e l’altare papale sopra la tomba di San Pietro. È un luogo di fede, arte e bellezza senza tempo.",
+      "address" : "Piazza San Pietro, Citta del Vaticano"
+    },
+    "volunteer" : [ {
+      "name" : "Ilaria",
+      "surname" : "Larovere",
+      "nickname" : "ilarhove03",
+      "password" : "volunteer",
+      "dateAvailability" : [ "2025-08-01", "2025-08-02", "2025-08-03", "2025-08-08", "2025-08-09", "2025-08-10" ]
+    } ]
+  },
+  "date" : "2025-08-10",
+  "counterId" : 40,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Scoperta della Basilica di San Pietro",
+    "description" : "La visita “Scoperta della Basilica di San Pietro” è un’esperienza coinvolgente che ti porta alla scoperta della storia, dell’arte e della spiritualità di questo luogo unico. Si entra nella basilica ammirando la maestosità della navata, le opere di artisti come Michelangelo e Bernini, e l’imponente cupola che sovrasta tutto. La guida ti accompagna tra cappelle, altari e dettagli spesso nascosti, raccontando curiosità e simboli che rendono la visita ancora più viva. È un percorso ricco e suggestivo, perfetto per chi vuole conoscere a fondo uno dei luoghi più straordinari del mondo.",
+    "meetingPoint" : "Ingresso citta del Vaticano",
+    "startDate" : "2025-01-01",
+    "endDate" : "2027-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY" ],
+    "startHour" : "09:00",
+    "duration" : 120,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 20,
+    "place" : {
+      "name" : "Basilica di San Pietro",
+      "description" : "La Basilica di San Pietro è uno dei luoghi più iconici e sacri del mondo cristiano. Situata in Vaticano, colpisce per la sua maestosità, con la grande cupola progettata da Michelangelo e l’imponente facciata. All’interno custodisce capolavori come la Pietà e l’altare papale sopra la tomba di San Pietro. È un luogo di fede, arte e bellezza senza tempo.",
+      "address" : "Piazza San Pietro, Citta del Vaticano"
+    },
+    "volunteer" : [ {
+      "name" : "Leonardo",
+      "surname" : "Folgoni",
+      "nickname" : "folgo03",
+      "password" : "volunteer",
+      "dateAvailability" : [ "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15" ]
+    } ]
+  },
+  "date" : "2025-08-12",
+  "counterId" : 41,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Scoperta della Basilica di San Pietro",
+    "description" : "La visita “Scoperta della Basilica di San Pietro” è un’esperienza coinvolgente che ti porta alla scoperta della storia, dell’arte e della spiritualità di questo luogo unico. Si entra nella basilica ammirando la maestosità della navata, le opere di artisti come Michelangelo e Bernini, e l’imponente cupola che sovrasta tutto. La guida ti accompagna tra cappelle, altari e dettagli spesso nascosti, raccontando curiosità e simboli che rendono la visita ancora più viva. È un percorso ricco e suggestivo, perfetto per chi vuole conoscere a fondo uno dei luoghi più straordinari del mondo.",
+    "meetingPoint" : "Ingresso citta del Vaticano",
+    "startDate" : "2025-01-01",
+    "endDate" : "2027-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY" ],
+    "startHour" : "09:00",
+    "duration" : 120,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 20,
+    "place" : {
+      "name" : "Basilica di San Pietro",
+      "description" : "La Basilica di San Pietro è uno dei luoghi più iconici e sacri del mondo cristiano. Situata in Vaticano, colpisce per la sua maestosità, con la grande cupola progettata da Michelangelo e l’imponente facciata. All’interno custodisce capolavori come la Pietà e l’altare papale sopra la tomba di San Pietro. È un luogo di fede, arte e bellezza senza tempo.",
+      "address" : "Piazza San Pietro, Citta del Vaticano"
+    },
+    "volunteer" : [ {
+      "name" : "Leonardo",
+      "surname" : "Folgoni",
+      "nickname" : "folgo03",
+      "password" : "volunteer",
+      "dateAvailability" : [ "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15" ]
+    } ]
+  },
+  "date" : "2025-08-13",
+  "counterId" : 42,
+  "state" : "PROPOSTA"
+}, {
+  "visitType" : {
+    "title" : "Scoperta della Basilica di San Pietro",
+    "description" : "La visita “Scoperta della Basilica di San Pietro” è un’esperienza coinvolgente che ti porta alla scoperta della storia, dell’arte e della spiritualità di questo luogo unico. Si entra nella basilica ammirando la maestosità della navata, le opere di artisti come Michelangelo e Bernini, e l’imponente cupola che sovrasta tutto. La guida ti accompagna tra cappelle, altari e dettagli spesso nascosti, raccontando curiosità e simboli che rendono la visita ancora più viva. È un percorso ricco e suggestivo, perfetto per chi vuole conoscere a fondo uno dei luoghi più straordinari del mondo.",
+    "meetingPoint" : "Ingresso citta del Vaticano",
+    "startDate" : "2025-01-01",
+    "endDate" : "2027-01-01",
+    "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY" ],
+    "startHour" : "09:00",
+    "duration" : 120,
+    "buyTicket" : true,
+    "minParticipant" : 10,
+    "maxParticipant" : 20,
+    "place" : {
+      "name" : "Basilica di San Pietro",
+      "description" : "La Basilica di San Pietro è uno dei luoghi più iconici e sacri del mondo cristiano. Situata in Vaticano, colpisce per la sua maestosità, con la grande cupola progettata da Michelangelo e l’imponente facciata. All’interno custodisce capolavori come la Pietà e l’altare papale sopra la tomba di San Pietro. È un luogo di fede, arte e bellezza senza tempo.",
+      "address" : "Piazza San Pietro, Citta del Vaticano"
+    },
+    "volunteer" : [ {
+      "name" : "Leonardo",
+      "surname" : "Folgoni",
+      "nickname" : "folgo03",
+      "password" : "volunteer",
+      "dateAvailability" : [ "2025-08-10", "2025-08-11", "2025-08-12", "2025-08-13", "2025-08-14", "2025-08-15" ]
+    } ]
+  },
+  "date" : "2025-08-14",
+  "counterId" : 43,
+  "state" : "PROPOSTA"
+} ]

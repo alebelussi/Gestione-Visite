@@ -1,0 +1,21 @@
+[ {
+  "name" : "Alessandro",
+  "surname" : "Belussi",
+  "username" : "alebelussi",
+  "password" : "0000"
+}, {
+  "name" : "Giovanni",
+  "surname" : "Rana",
+  "username" : "frog",
+  "password" : "ranocchio"
+}, {
+  "name" : "Tommaso",
+  "surname" : "Franzoni",
+  "username" : "franz",
+  "password" : "tommy"
+}, {
+  "name" : "Mauro",
+  "surname" : "Bottini",
+  "username" : "botmau.exe",
+  "password" : "2data"
+} ]

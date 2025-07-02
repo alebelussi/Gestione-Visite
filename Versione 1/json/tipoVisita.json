@@ -1,0 +1,145 @@
+[ {
+  "title" : "Viaggio interno del colosseo",
+  "description" : "Visitare l’interno del Colosseo è un viaggio nella storia di Roma. Dal primo livello, si ammira l’arena dall’alto, immaginando il fragore degli spettacoli. L’accesso all’arena permette di camminare dove un tempo combattevano i gladiatori, mentre dai passaggi aperti si intravedono i sotterranei, cuore nascosto dell’anfiteatro. Qui venivano preparati animali e gladiatori per gli spettacoli, tra corridoi e piattaforme segrete. Un’esperienza immersiva che riporta alla grandiosità dell’antica Roma.",
+  "meetingPoint" : "Metro Colosseo",
+  "startDate" : "2025-01-01",
+  "endDate" : "2026-10-31",
+  "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+  "startHour" : "10:00",
+  "duration" : 26,
+  "buyTicket" : true,
+  "minParticipant" : 10,
+  "maxParticipant" : 20,
+  "place" : {
+    "name" : "Colosseo",
+    "description" : "Il Colosseo, o Anfiteatro Flavio, è uno dei monumenti più iconici di Roma e del mondo. Costruito tra il 70 e l'80 d.C. sotto l'imperatore Vespasiano e completato da Tito, era il più grande anfiteatro dell'Impero Romano, con una capienza di circa 50.000 spettatori.",
+    "address" : "Via del Colosseo 1"
+  },
+  "volunteer" : [ {
+    "name" : "Samuele",
+    "surname" : "Valperta",
+    "nickname" : "samuvalpe",
+    "password" : "volunteer",
+    "availability" : true
+  }, {
+    "name" : "Alberto",
+    "surname" : "Ferrari",
+    "nickname" : "albyferro",
+    "password" : "volunteer",
+    "availability" : true
+  }, {
+    "name" : "Robert",
+    "surname" : "Bararu",
+    "nickname" : "robybaru",
+    "password" : "volunteer",
+    "availability" : true
+  } ]
+}, {
+  "title" : "Viaggio esterno del Colosseo",
+  "description" : "Osservare il Colosseo dall’esterno è un’esperienza mozzafiato. La sua imponente struttura ellittica, con arcate in travertino, racconta secoli di storia e resiste al tempo. Ogni livello presenta colonne di ordini diversi, dando un senso di armonia e maestosità. Attraverso le grandi arcate, si intravedono gli interni, suscitando curiosità e ammirazione. Di notte, illuminato, il Colosseo regala uno spettacolo suggestivo, simbolo eterno della grandezza di Roma.",
+  "meetingPoint" : "Metro Colosseo",
+  "startDate" : "2025-01-01",
+  "endDate" : "2029-10-12",
+  "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+  "startHour" : "13:00",
+  "duration" : 30,
+  "buyTicket" : true,
+  "minParticipant" : 10,
+  "maxParticipant" : 30,
+  "place" : {
+    "name" : "Colosseo",
+    "description" : "Il Colosseo, o Anfiteatro Flavio, è uno dei monumenti più iconici di Roma e del mondo. Costruito tra il 70 e l'80 d.C. sotto l'imperatore Vespasiano e completato da Tito, era il più grande anfiteatro dell'Impero Romano, con una capienza di circa 50.000 spettatori.",
+    "address" : "Via del Colosseo 1"
+  },
+  "volunteer" : [ {
+    "name" : "Alberto",
+    "surname" : "Ferrari",
+    "nickname" : "albyferro",
+    "password" : "volunteer",
+    "availability" : true
+  }, {
+    "name" : "Samuele",
+    "surname" : "Valperta",
+    "nickname" : "samuvalpe",
+    "password" : "volunteer",
+    "availability" : true
+  } ]
+}, {
+  "title" : "Scoperta del Circo Massimo",
+  "description" : "Il Circo Massimo è un antico stadio situato nel centro di Roma, famoso per le corse di carri che vi si svolgevano. Con una capacità di oltre 150.000 spettatori, era uno dei più grandi e importanti luoghi di intrattenimento dell'antica Roma. Oggi, del Circo Massimo restano principalmente le sue dimensioni impressionanti e alcuni resti archeologici, che testimoniano la grandezza di questa struttura.",
+  "meetingPoint" : "Ingresso sud Circo Massimo",
+  "startDate" : "2025-04-01",
+  "endDate" : "2025-09-30",
+  "day" : [ "FRIDAY", "SATURDAY", "SUNDAY" ],
+  "startHour" : "10:00",
+  "duration" : 60,
+  "buyTicket" : true,
+  "minParticipant" : 20,
+  "maxParticipant" : 50,
+  "place" : {
+    "name" : "Circo Massimo",
+    "description" : "Il Circo Massimo è un antico stadio situato nel centro di Roma, famoso per le corse di carri che vi si svolgevano. Con una capacità di oltre 150.000 spettatori, era uno dei più grandi e importanti luoghi di intrattenimento dell'antica Roma. Oggi, del Circo Massimo restano principalmente le sue dimensioni impressionanti e alcuni resti archeologici, che testimoniano la grandezza di questa struttura.",
+    "address" : "Largo del Circo Massimo"
+  },
+  "volunteer" : [ {
+    "name" : "Alberto",
+    "surname" : "Ferrari",
+    "nickname" : "albyferro",
+    "password" : "volunteer",
+    "availability" : true
+  }, {
+    "name" : "Carlo",
+    "surname" : "Agustelli",
+    "nickname" : "carloaug",
+    "password" : "volunteer",
+    "availability" : true
+  } ]
+}, {
+  "title" : "Scoperta di Piazza di Spagna",
+  "description" : "Scoprire Piazza di Spagna significa immergersi in uno degli angoli più eleganti di Roma. Ammirando la celebre Scalinata di Trinità dei Monti, si può salire fino alla chiesa per godere di una splendida vista sulla città. Al centro della piazza, la Fontana della Barcaccia aggiunge fascino con il suo design barocco. Passeggiare tra le boutique di lusso e i caffè storici permette di respirare l’atmosfera unica di questo luogo iconico.",
+  "meetingPoint" : "Metro ",
+  "startDate" : "2025-02-21",
+  "endDate" : "2026-01-01",
+  "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+  "startHour" : "10:00",
+  "duration" : 50,
+  "buyTicket" : true,
+  "minParticipant" : 10,
+  "maxParticipant" : 30,
+  "place" : {
+    "name" : "Piazza di Spagna",
+    "description" : "Piazza di Spagna è una delle piazze più iconiche di Roma, famosa per la maestosa scalinata di Trinità dei Monti, che conduce alla chiesa omonima. Al centro si trova la Fontana della Barcaccia, opera del Bernini. Circondata da eleganti palazzi e boutique di lusso, è un luogo simbolo della città, amato da turisti e romani.",
+    "address" : "Piazza di Spagna"
+  },
+  "volunteer" : [ {
+    "name" : "Alberto",
+    "surname" : "Ferrari",
+    "nickname" : "albyferro",
+    "password" : "volunteer",
+    "availability" : true
+  } ]
+}, {
+  "title" : "Scoperta della Basilica di San Pietro",
+  "description" : "Visitare la Basilica di San Pietro è un’esperienza unica tra arte, fede e storia. Attraversando la monumentale Piazza San Pietro, si accede all’imponente chiesa, con i suoi interni riccamente decorati da mosaici, statue e affreschi. Tra le opere più celebri, spiccano la Pietà di Michelangelo e il Baldacchino di Bernini. Salendo sulla cupola, si può ammirare un panorama mozzafiato su Roma.",
+  "meetingPoint" : "Piazza San Pietro",
+  "startDate" : "2025-01-20",
+  "endDate" : "2030-01-01",
+  "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+  "startHour" : "10:00",
+  "duration" : 100,
+  "buyTicket" : true,
+  "minParticipant" : 5,
+  "maxParticipant" : 15,
+  "place" : {
+    "name" : "San Pietro",
+    "description" : "La Basilica di San Pietro, cuore del Vaticano e simbolo della cristianità, è una delle chiese più grandi e spettacolari del mondo. La sua imponente facciata accoglie i visitatori in Piazza San Pietro, circondata dal maestoso colonnato di Bernini. All'interno, tra affreschi, sculture e mosaici, si possono ammirare capolavori come la Pietà di Michelangelo e l'altare del Baldacchino di Bernini. La cupola, accessibile ai visitatori, offre una vista mozzafiato su Roma. Un luogo di grande fascino artistico e spirituale.",
+    "address" : "Piazza San Pietro"
+  },
+  "volunteer" : [ {
+    "name" : "Samuele",
+    "surname" : "Valperta",
+    "nickname" : "samuvalpe",
+    "password" : "volunteer",
+    "availability" : true
+  } ]
+} ]

@@ -1,0 +1,15 @@
+[ {
+  "region" : "Roma"
+}, {
+  "name" : "Colosseo",
+  "description" : "Il Colosseo, noto anche come Anfiteatro Flavio, è uno dei monumenti più iconici dell'antica Roma. Situato nel centro della città, fu costruito tra il 70 e l'80 d.C. sotto gli imperatori Vespasiano e Tito. Poteva ospitare fino a 50.000 spettatori ed era utilizzato per spettacoli pubblici come combattimenti tra gladiatori, cacce agli animali e rievocazioni storiche. Con la sua imponente struttura in pietra e cemento, il Colosseo è un capolavoro dell’ingegneria romana ed è oggi uno dei simboli più celebri dell’Italia e del patrimonio mondiale dell’UNESCO.",
+  "address" : "Piazza del Colosseo 1"
+}, {
+  "name" : "Quirinale",
+  "description" : "Il Quirinale è uno dei palazzi più importanti di Roma e d’Italia: si trova sull’omonimo colle ed è la residenza ufficiale del Presidente della Repubblica. Costruito nel 1583 come dimora papale, ha ospitato papi, re e oggi il capo dello Stato. È un edificio elegante, con splendide sale interne, opere d’arte e giardini curati, ed è spesso visitabile con tour guidati. Simbolo della storia e delle istituzioni italiane, il Quirinale è un luogo di grande fascino e rilevanza politica.",
+  "address" : "Piazza del Quirinale"
+}, {
+  "name" : "Basilica di San Pietro",
+  "description" : "La Basilica di San Pietro è uno dei luoghi più iconici e sacri del mondo cristiano. Situata in Vaticano, colpisce per la sua maestosità, con la grande cupola progettata da Michelangelo e l’imponente facciata. All’interno custodisce capolavori come la Pietà e l’altare papale sopra la tomba di San Pietro. È un luogo di fede, arte e bellezza senza tempo.",
+  "address" : "Piazza San Pietro, Citta del Vaticano"
+} ]

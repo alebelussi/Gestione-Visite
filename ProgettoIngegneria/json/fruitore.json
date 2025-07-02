@@ -1,0 +1,26 @@
+[ {
+  "name" : "Giampiero",
+  "surname" : "Ippolito",
+  "username" : "apo03",
+  "password" : "hinge"
+}, {
+  "name" : "Paolo",
+  "surname" : "Degari",
+  "username" : "sd5734",
+  "password" : "intuo123"
+}, {
+  "name" : "Paul",
+  "surname" : "Pogba",
+  "username" : "pogba10",
+  "password" : "pauljuve"
+}, {
+  "name" : "Francesco",
+  "surname" : "Totti",
+  "username" : "tottiroma10",
+  "password" : "ranieri"
+}, {
+  "name" : "Mario",
+  "surname" : "Rossi",
+  "username" : "mariorossi",
+  "password" : "italia"
+} ]

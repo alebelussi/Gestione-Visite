@@ -1,0 +1,37 @@
+[ {
+  "name" : "Mario",
+  "surname" : "Rietti",
+  "nickname" : "marietto",
+  "password" : "rietto",
+  "dateAvailability" : [ "2025-04-04", "2025-04-05", "2025-04-06", "2025-04-11", "2025-04-12", "2025-04-13", "2025-05-23", "2025-05-24", "2025-05-25", "2025-05-30" ]
+}, {
+  "name" : "Alberto",
+  "surname" : "Ferrari",
+  "nickname" : "albertoferro",
+  "password" : "ironman",
+  "dateAvailability" : [ "2025-04-11", "2025-04-12", "2025-04-13" ]
+}, {
+  "name" : "Aways",
+  "surname" : "Khalid",
+  "nickname" : "awayska",
+  "password" : "gianni",
+  "dateAvailability" : [ "2025-04-04", "2025-04-06", "2025-05-01", "2025-05-02", "2025-05-03" ]
+}, {
+  "name" : "Faustino",
+  "surname" : "Leali",
+  "nickname" : "Fausto",
+  "password" : "nuvolentoforza12",
+  "dateAvailability" : ["2025-05-09", "2025-05-10", "2025-05-11"]
+}, {
+  "name" : "Carlo",
+  "surname" : "Cucinari",
+  "nickname" : "cucino09",
+  "password" : "1234",
+  "dateAvailability" : ["2025-05-10", "2025-05-16", "2025-05-17"]
+}, {
+  "name" : "Kasun",
+  "surname" : "Madusara",
+  "nickname" : "kaskator",
+  "password" : "cascata",
+  "dateAvailability" : [ ]
+} ]

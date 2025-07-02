@@ -1,0 +1,121 @@
+[ {
+  "title" : "Visita esterna al colosseo",
+  "description" : "\"Osservare il Colosseo dall’esterno è un’esperienza mozzafiato. La sua imponente struttura ellittica, con arcate in travertino, racconta secoli di storia e resiste al tempo. Ogni livello presenta colonne di ordini diversi, dando un senso di armonia e maestosità. Attraverso le grandi arcate, si intravedono gli interni, suscitando curiosità e ammirazione. Di notte, illuminato, il Colosseo regala uno spettacolo suggestivo, simbolo eterno della grandezza di Roma.\"",
+  "meetingPoint" : "Metro Roma",
+  "startDate" : "2025-01-10",
+  "endDate" : "2027-01-01",
+  "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+  "startHour" : "08:00",
+  "duration" : 45,
+  "buyTicket" : true,
+  "minParticipant" : 10,
+  "maxParticipant" : 20,
+  "place" : {
+    "name" : "Colosseo",
+    "description" : "Il Colosseo, o Anfiteatro Flavio, è uno dei monumenti più iconici di Roma e del mondo. Costruito tra il 70 e l'80 d.C. sotto l'imperatore Vespasiano e completato da Tito, era il più grande anfiteatro dell'Impero Romano, con una capienza di circa 50.000 spettatori.",
+    "address" : "Piazza del Colosseo 1"
+  },
+  "volunteer" : [ {
+    "name" : "Aways",
+    "surname" : "Khalid",
+    "nickname" : "awayska",
+    "password" : "gianni",
+    "dateAvailability" : [ "2025-04-04", "2025-04-06", "2025-05-01", "2025-05-02", "2025-05-03" ]
+  } ]
+}, {
+  "title" : "Visita Esterna del Circo Massimo",
+  "description" : "La visita esterna del Circo Massimo permette di ammirare le imponenti dimensioni della struttura, che un tempo ospitava le celebri corse di carri. Oggi, è possibile passeggiare lungo il perimetro dell'arena, osservando i resti delle gradinate e dei monumenti circostanti. Dall'esterno, si può apprezzare l'architettura della valle in cui è situato, incorniciata da colline e da un'area verde che un tempo era piena di vita e spettacolo.",
+  "meetingPoint" : "Circo Massimo, ingresso sud",
+  "startDate" : "2025-04-01",
+  "endDate" : "2025-10-01",
+  "day" : [ "FRIDAY", "SATURDAY", "SUNDAY" ],
+  "startHour" : "10:00",
+  "duration" : 60,
+  "buyTicket" : true,
+  "minParticipant" : 10,
+  "maxParticipant" : 20,
+  "place" : {
+    "name" : "Circo Massimo",
+    "description" : "Il Circo Massimo è un antico stadio situato nel centro di Roma, famoso per le corse di carri che vi si svolgevano. Con una capacità di oltre 150.000 spettatori, era uno dei più grandi e importanti luoghi di intrattenimento dell'antica Roma. Oggi, del Circo Massimo restano principalmente le sue dimensioni impressionanti e alcuni resti archeologici, che testimoniano la grandezza di questa struttura.",
+    "address" : "largo del Circo Massimo"
+  },
+  "volunteer" : [ {
+    "name" : "Mario",
+    "surname" : "Rietti",
+    "nickname" : "marietto",
+    "password" : "rietto",
+    "dateAvailability" : [ "2025-04-04", "2025-04-05", "2025-04-06", "2025-04-11", "2025-04-12", "2025-04-13", "2025-05-23", "2025-05-24", "2025-05-25", "2025-05-30" ]
+  } ]
+}, {
+  "title" : "Viaggio nei sotterranei del Colosseo",
+  "description" : "Il viaggio nei sotterranei del Colosseo offre un'esperienza affascinante che permette di esplorare l'area dove i gladiatori e gli animali venivano preparati prima dei combattimenti. Qui si possono osservare i passaggi segreti, le celle sotterranee e le antiche macchine utilizzate per alzare gli oggetti sul palco. Questa visita consente di immergersi nella storia e nell'atmosfera di uno dei luoghi più iconici dell'antica Roma.",
+  "meetingPoint" : "Metro Colosseo",
+  "startDate" : "2025-01-01",
+  "endDate" : "2025-10-12",
+  "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+  "startHour" : "09:00",
+  "duration" : 60,
+  "buyTicket" : true,
+  "minParticipant" : 5,
+  "maxParticipant" : 10,
+  "place" : {
+    "name" : "Colosseo",
+    "description" : "Il Colosseo, o Anfiteatro Flavio, è uno dei monumenti più iconici di Roma e del mondo. Costruito tra il 70 e l'80 d.C. sotto l'imperatore Vespasiano e completato da Tito, era il più grande anfiteatro dell'Impero Romano, con una capienza di circa 50.000 spettatori.",
+    "address" : "Piazza del Colosseo 1"
+  },
+  "volunteer" : [ {
+    "name" : "Alberto",
+    "surname" : "Ferrari",
+    "nickname" : "albertoferro",
+    "password" : "ironman",
+    "dateAvailability" : [ "2025-04-11", "2025-04-12", "2025-04-13" ]
+  } ]
+}, {
+  "title" : "Tour dello Stadio",
+  "description" : "Il tour dello Stadio Olimpico di Roma è un’esperienza immersiva che ti porta alla scoperta di uno dei luoghi più iconici dello sport e della musica in Italia.",
+  "meetingPoint" : "Piazza Lauro de Bosis",
+  "startDate" : "2025-10-10",
+  "endDate" : "2026-12-10",
+  "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY" ],
+  "startHour" : "10:00",
+  "duration" : 120,
+  "buyTicket" : true,
+  "minParticipant" : 20,
+  "maxParticipant" : 50,
+  "place" : {
+    "name" : "Stadio Olimpico",
+    "description" : "Lo Stadio Olimpico di Roma è il principale impianto sportivo della capitale, situato all'interno del Foro Italico. Con una capienza di oltre 70.000 spettatori, ospita le partite di Roma e Lazio, oltre a eventi internazionali di calcio, atletica e concerti. La sua struttura moderna, rinnovata per i Mondiali del 1990, offre un’esperienza immersiva, con tribune imponenti e un’atmosfera carica di emozioni. Una visita permette di esplorare gli spalti, gli spogliatoi e il campo, vivendo da vicino la magia di uno dei templi dello sport italiano.",
+    "address" : "Viale dei Gladiatori 2"
+  },
+  "volunteer" : [ {
+    "name" : "Faustino",
+    "surname" : "Leali",
+    "nickname" : "Fausto",
+    "password" : "nuvolentoforza12",
+    "dateAvailability" : [ ]
+  } ]
+}, {
+  "title" : "Sotterranei del Colosseo",
+  "description" : "La visita guidata ai sotterranei del Colosseo offre un'opportunità unica per esplorare le aree nascoste di questo iconico anfiteatro romano. Questi spazi sotterranei, un tempo inaccessibili al pubblico, erano il fulcro dell'organizzazione degli spettacoli nell'antica Roma.",
+  "meetingPoint" : "Metro Colosseo",
+  "startDate" : "2025-02-02",
+  "endDate" : "2028-01-01",
+  "day" : [ "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY" ],
+  "startHour" : "18:00",
+  "duration" : 90,
+  "buyTicket" : true,
+  "minParticipant" : 10,
+  "maxParticipant" : 20,
+  "place" : {
+    "name" : "Colosseo",
+    "description" : "Il Colosseo, o Anfiteatro Flavio, è uno dei monumenti più iconici di Roma e del mondo. Costruito tra il 70 e l'80 d.C. sotto l'imperatore Vespasiano e completato da Tito, era il più grande anfiteatro dell'Impero Romano, con una capienza di circa 50.000 spettatori.",
+    "address" : "Via del Colosseo 1"
+  },
+  "volunteer" : [ {
+    "name" : "Carlo",
+    "surname" : "Cucinari",
+    "nickname" : "cucino09",
+    "password" : "1234",
+    "dateAvailability" : [ "2025-05-10", "2025-05-20", "2025-05-30" ]
+  } ]
+} ]

@@ -1,0 +1,15 @@
+[ {
+  "user" : "admin",
+  "pw" : "admin",
+  "firstAbsoluteAccess" : "false"
+}, {
+  "name" : "Alessandro",
+  "username" : "alebelu",
+  "password" : "0000",
+  "surname" : "Belussi"
+}, {
+  "name" : "Vincenzo",
+  "username" : "vin5ing03",
+  "password" : "licata97",
+  "surname" : "Ingiaimo"
+}]
